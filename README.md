@@ -13,6 +13,6 @@ Quiero trabajar como **técnico de soporte informático presencial**, montando, 
 
 ## Enlaces
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/juan-ferri-1b2252405?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 💻 [GitHub](https://github.com/fourgdata)
 - ✉️ [i61406440@gmail.com](mailto:i61406440@gmail.com)

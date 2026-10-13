@@ -10,3 +10,9 @@ Lo que más me gusta es el **montaje de ordenadores** y el **soporte técnico pr
 ## Objetivo profesional
 
 Quiero trabajar como **técnico de soporte informático presencial**, montando, reparando y manteniendo equipos, y atendiendo en persona a usuarios y empresas. A medio plazo me gustaría ampliar mis conocimientos de redes y sistemas.
+
+## Enlaces
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/)
+- 💻 [GitHub](https://github.com/fourgdata)
+- ✉️ [i61406440@gmail.com](mailto:i61406440@gmail.com)

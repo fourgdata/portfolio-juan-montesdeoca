@@ -1,7 +1,7 @@
 # Portfolio
 <img src="foto.jpg" alt="Foto de Juan Montesdeoca Ferri" width="160" align="right">
 
-# Hola, soy Juan Montesdeoca Ferri 👋
+# Hola, soy Juan 👋
 
 Tengo 19 años y estudio el ciclo formativo de **Sistemas Microinformáticos y Redes (SMR)**.
 

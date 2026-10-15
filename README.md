@@ -1,4 +1,4 @@
-# portfolio-juan-montesdeoca
+# Portfolio
 <img src="foto.jpg" alt="Foto de Juan Montesdeoca Ferri" width="160" align="right">
 
 # Hola, soy Juan Montesdeoca Ferri 👋
